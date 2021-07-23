@@ -14,9 +14,9 @@ packages dependencies
  - Json web token (JWT interface)
 
 How to Use?
-set Up mongodb 
-run  the index.js "Node index.js"
-apis  CRUD requests are good to go  test from postman or web browser.
+set Up mongodb -> 'mongod'
+run  the index.js -> 'Node index.js'
+APIs  CRUD requests are good to go  test from Postman or web browser.
 ThankYou
 
 
