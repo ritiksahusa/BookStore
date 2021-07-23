@@ -16,7 +16,7 @@ packages dependencies
 How to Use?
  - set Up mongodb -> 'mongod'
  - run  the index.js -> 'Node index.js'
- - APIs  CRUD requests are good to test from Postman or web browser.
+ - API's  CRUD requests are good to test from Postman or web browser.
 ThankYou
 
 
