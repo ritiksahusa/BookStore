@@ -1,4 +1,4 @@
-# BookStore
+# MediaStore
 
 API endpoints defined for a book rental shop/Library
 
